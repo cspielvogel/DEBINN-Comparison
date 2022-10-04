@@ -1,5 +1,5 @@
 # Conventional neural network performance comparison
-This repository contains the data and code for the classification performance of conventional neural networks which is compared with Distance Encoding Biomorphic-Informational Neural Network (DEBI-NN) as part of the publication [XXX] (in submission). 
+This repository contains the data and code for the classification performance of conventional neural networks which is compared with Distance Encoding Biomorphic-Informational Neural Network (DEBI-NN) as part of the publication [DEBI-NN: Distance-Encoding Biomorphic-Informational Neural Networks for Minimizing the Number of Trainable Parameters] (in submission). 
 
 ## Requirements and System specifications
 All experiments were performed on Linux Ubuntu 20.04.4 LTS (64-bit) using Python 3.9.7. The specific requirements are listed in the `requirements.txt`.
